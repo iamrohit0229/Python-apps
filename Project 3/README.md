@@ -1,0 +1,2 @@
+# RBI Resources Data Analysis
+This is a Data Science Project to make valuable prediction on Year over Year growth which is essential in investment banking considering India. This Project is implemented using ML Models.
